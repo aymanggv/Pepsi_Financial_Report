@@ -1,6 +1,6 @@
 # PepsiCo Sales Performance Dashboard
 <p>This dashboard was created to analyze and provide actionable insights into PepsiCo's sales performance, enabling data-driven decision-making and enhancing the efficiency of sales operations. Below is a detailed description of the dashboard's components and their purpose:</p>
-The live report can be viewed using the link on https://aymang.streamlit.app or <br/>
+The live report can be viewed using the link on [https://aymang.streamlit.app](https://aymang.streamlit.app/Pepsi_Financial_Dashboard) or <br/>
 https://app.powerbi.com/groups/me/reports/97d39d5a-95a5-45c4-924d-0bf47f151f63/ReportSection3fa583ff48685abe5c72?experience=power-bi
 
 
